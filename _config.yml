@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               name surname
+tagline:             website
+url:                 https://sluga.github.io/
+paginate:            5
+baseurl:             ""
+
+# Assets
+
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              name surname
+  url:               https://sluga.github.io/
+  email:             email@address.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/sluga/sluga.github.io
+
+# Plugins (Gems)
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Top bar
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  RSS: '/atom.xml'

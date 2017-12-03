@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>name surname</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-12-03T18:55:55+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>name surname</name>
+   <email>email@address.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Title 2</title>
+   <link href="http://localhost:4000/2017/12/03/test2/"/>
+   <updated>2017-12-03T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2017/12/03/test2</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi nibh, porta eu convallis in, facilisis et elit. Sed at quam diam. Proin suscipit, dolor quis vehicula lobortis, nulla neque elementum enim, vel semper eros ipsum a urna. In suscipit suscipit magna. Aliquam tincidunt mollis hendrerit. Aenean pellentesque, diam vitae pulvinar consectetur, neque urna pellentesque lectus, vel maximus nisl elit ac risus. Suspendisse nec lectus massa.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-header&quot;&gt;section header&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi nibh, porta eu convallis in, facilisis et elit. Sed at quam diam. Proin suscipit, dolor quis vehicula lobortis, nulla neque elementum enim, vel semper eros ipsum a urna. In suscipit suscipit magna. Aliquam tincidunt mollis hendrerit. Aenean pellentesque, diam vitae pulvinar consectetur, neque urna pellentesque lectus, vel maximus nisl elit ac risus. Suspendisse nec lectus massa.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Title 1</title>
+   <link href="http://localhost:4000/2017/12/02/test1/"/>
+   <updated>2017-12-02T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2017/12/02/test1</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi nibh, porta eu convallis in, facilisis et elit. Sed at quam diam. Proin suscipit, dolor quis vehicula lobortis, nulla neque elementum enim, vel semper eros ipsum a urna. In suscipit suscipit magna. Aliquam tincidunt mollis hendrerit. Aenean pellentesque, diam vitae pulvinar consectetur, neque urna pellentesque lectus, vel maximus nisl elit ac risus. Suspendisse nec lectus massa.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-header&quot;&gt;section header&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi nibh, porta eu convallis in, facilisis et elit. Sed at quam diam. Proin suscipit, dolor quis vehicula lobortis, nulla neque elementum enim, vel semper eros ipsum a urna. In suscipit suscipit magna. Aliquam tincidunt mollis hendrerit. Aenean pellentesque, diam vitae pulvinar consectetur, neque urna pellentesque lectus, vel maximus nisl elit ac risus. Suspendisse nec lectus massa.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
